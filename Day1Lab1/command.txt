@@ -1,0 +1,8 @@
+> pulse 0,0,0,0,0,0
+> jtran 5,-90
+> 
+!!Error: 2318, Cannot execute a motion command when an error has been detected.
+> reset
+> motor On 
+power High 
+> 
